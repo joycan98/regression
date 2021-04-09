@@ -1,0 +1,28 @@
+* {
+    font-family: Monaco, monospace;
+}
+
+button.clear_button {
+    position: absolute;
+    left: 10px;
+    top: 500px;
+    border-radius: 8px;
+    background-color: #f44336;
+    color: white;
+    font-size: 20px;
+    border: none;
+    padding: 20px 16px;
+}
+
+button.undo_button {
+    position: absolute;
+    left: 125px;
+    top: 500px;
+    border-radius: 8px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 20px;
+    border: none;
+    padding: 20px 16px;
+}
+
